@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 ## 3. Project Structure
     ├── Mall_Customers.csv           # Dataset file 
-    ├── house_pricing.ipynb         # Jupyter notebook with end-to-end implementation
+    ├── customer_segmentation.ipynb  # Jupyter notebook with end-to-end implementation
     ├── README.md                   # Project documentation
     ├── requirements.txt            # Python dependencies
     └── .gitignore                  # Files to be ignored in version control

@@ -31,7 +31,6 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 - Python 3.9 or higher
 - Jupyter Notebook
 - scikit-learn
-- xgboost
 - pandas
 - matplotlib
 - numpy

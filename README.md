@@ -10,7 +10,7 @@ This project implements a K-means clustering algorithm to segment customers base
 
 https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python
 
-## 2. Features
+## 3. Features
 - **Data Preprocessing**: Data cleaning, normalization, and splitting into training and testing sets.
 - **Model Training**: Applying K-means clustering to segment customers into distinct groups.
 - **Model Evaluation**: Evaluating the clustering results using metrics like inertia and the silhouette score to determine the optimal number of clusters.
@@ -18,14 +18,14 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 
 
 
-## 3. Project Structure
+## 4. Project Structure
     ├── Mall_Customers.csv           # Dataset file 
     ├── customer_segmentation.ipynb  # Jupyter notebook with end-to-end implementation
     ├── README.md                   # Project documentation
     ├── requirements.txt            # Python dependencies
     └── .gitignore                  # Files to be ignored in version control
 
-## 4. Getting Started
+## 5. Getting Started
 
 ### Prerequisites
 - Python 3.9 or higher
@@ -58,7 +58,7 @@ https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-p
 ```python
     jupyter notebook customer_segmentation.ipynb
 ```
-## 5. Usage
+## 6. Usage
 
 Open the customer_segmentation.ipynb file and follow the step-by-step instructions provided in the notebook. The notebook includes:
 
@@ -68,7 +68,7 @@ Open the customer_segmentation.ipynb file and follow the step-by-step instructio
 - **Visualization**: Visualize the clusters in 2D or 3D, showcasing the customer segments and analyzing their characteristics.
 
 
-## 6. Results in Test
+## 7. Results in Test
 
 
 | Metric    |  Value   |
@@ -78,11 +78,11 @@ Open the customer_segmentation.ipynb file and follow the step-by-step instructio
 |Silhouette Score | 0.55|
 
 
-## 7. Contributing
+## 8. Contributing
 
 Feel free to open issues or submit pull requests if you find any bugs or want to improve the project.
 
-## 8. License
+## 9. License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
